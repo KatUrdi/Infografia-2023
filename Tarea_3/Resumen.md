@@ -17,6 +17,9 @@ en el video podemos ver la importancia de generar números aleatorios en juegos 
 
 - Registro de Desplazamiento Lineal de Retroalimentación de Fibonacci de 16 bits: Un enfoque sofisticado utilizado por Tetris, que implica la manipulación de la -memoria y comparaciones de bits, lo que resulta en una secuencia de números pseudoaleatorios.
 
+# 4 Opinión
+A pesar de las limitaciones técnicas de la NES, el desarrollo de juegos en 8 bits demostró una creatividad y habilidad impresionantes por parte de los desarrolladores. Las técnicas utilizadas para superar las restricciones de memoria y potencia de cálculo se convirtieron en pilares de diseño que influyeron en la industria de los videojuegos en las décadas siguientes. Aunque las capacidades tecnológicas han avanzado enormemente desde entonces, el enfoque en la eficiencia y la optimización sigue siendo relevante en el desarrollo de juegos modernos. La era de los 8 bits dejó un legado duradero en la forma en que los desarrolladores abordan la creación de juegos y sigue siendo una fuente de inspiración para la comunidad de desarrollo de videojuegos actual.
+
 - Tablas Precomputadas: Final Fantasy emplea una tabla de números aleatorios precomputados, almacenada en la memoria. Este método es eficiente pero requiere la preparación manual de la tabla.
 
 - Cálculo Basado en Cuadros: El enfoque de Contra implica el uso del número de cuadro actual para calcular números aleatorios, a pesar de su simplicidad, es funcional para su caso de uso específico.
